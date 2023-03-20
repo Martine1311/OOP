@@ -56,21 +56,21 @@ public class Application {
 //		p4.printAanbieding();
 //		p4.printPrijs();
 		
-//		Dier dier = new Dier();
-//		dier.name = "Dier";
-		
-//		Hond hond = new Hond();
-//		hond.name = "Woefje";
-//		hond.printName();
-//		hond.maakGeluid();
+////		Dier dier = new Dier();
+////		dier.name = "Dier";
 //		
-//		Kat kat = new Kat();
-//		kat.name = "Poes";
-//		kat.printName();
-//		kat.maakGeluid();
-//		
-//		Dier d = new Hond();
-//		d.maakGeluid();
+////		Hond hond = new Hond();
+////		hond.name = "Woefje";
+////		hond.printName();
+////		hond.maakGeluid();
+////		
+////		Kat kat = new Kat();
+////		kat.name = "Poes";
+////		kat.printName();
+////		kat.maakGeluid();
+////		
+		Dier d = new Hond();
+		d.maakGeluid();
 //		
 //		List<Dier> dieren; //abstract method kan ook over een lijst met verschillende dieren methods uitvoeren
 		
